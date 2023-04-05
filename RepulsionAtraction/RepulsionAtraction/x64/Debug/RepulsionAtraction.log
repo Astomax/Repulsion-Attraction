@@ -1,0 +1,5 @@
+﻿  RepulsionAtraction.cpp
+C:\Users\alekk\OneDrive\Bureaublad\C++\RepulsionAtraction\RepulsionAtraction\RepulsionAtraction.cpp(135,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\RepulsionAtraction\RepulsionAtraction\RepulsionAtraction.cpp(136,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\RepulsionAtraction\RepulsionAtraction\RepulsionAtraction.cpp(231,22): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  RepulsionAtraction.vcxproj -> C:\Users\alekk\OneDrive\Bureaublad\C++\RepulsionAtraction\x64\Debug\RepulsionAtraction.exe
